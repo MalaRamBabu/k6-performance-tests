@@ -87,3 +87,11 @@ sudo apt-get install k6
 
 **Tools:** K6 · JavaScript · GitHub REST API  
 **Skills:** Performance Testing · Load Testing · Smoke Testing · Spike Testing
+
+---
+
+## Author
+
+**Mala Ram Babu**
+Senior QA Automation Engineer | 4+ Years Experience
+[LinkedIn](https://www.linkedin.com/in/mala-ram-babu) | [GitHub](https://github.com/MalaRamBabu)
